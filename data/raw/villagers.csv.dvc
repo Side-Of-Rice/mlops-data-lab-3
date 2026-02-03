@@ -1,0 +1,5 @@
+outs:
+- md5: 1bc9c2bfa0671cfb71f28cb8923e14e2
+  size: 80577
+  hash: md5
+  path: villagers.csv
